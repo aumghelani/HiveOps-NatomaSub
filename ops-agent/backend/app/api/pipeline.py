@@ -261,7 +261,7 @@ def get_evidence_package(incident_id: str) -> dict | None:
         "similar_incidents": [
             {
                 "incident_id": si.get("original_id", ""),
-                "title": None,
+                "title": si.get("title"),
                 "service": si.get("service"),
                 "causal_sig": si.get("causal_sig"),
                 "outcome": si.get("outcome"),
