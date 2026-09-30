@@ -2,7 +2,7 @@
 
 A human-in-the-loop incident response dashboard: a multi-agent pipeline (triage, root cause, remediation, sandbox verification) assembles an evidence dossier, and a human approves or rejects the fix.
 
-**Live demo:** https://hiveops-shyamjgd-9432s-projects.vercel.app
+**Live demo:** https://www.hiveops.us
 
 Hackathon project built at YHacks 2026.
 
