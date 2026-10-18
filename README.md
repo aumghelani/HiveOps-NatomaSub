@@ -4,7 +4,7 @@ A human-in-the-loop incident response dashboard: a multi-agent pipeline (triage,
 
 **Live demo:** https://www.hiveops.us
 
-Hackathon project built at YHacks 2026.
+Winner, YHacks 2026.
 
 ![HiveOps incident dashboard](https://github.com/user-attachments/assets/adb215fe-6511-4d30-af96-a77c589b8dbc)
 <img width="1115" height="723" alt="HiveOps incident detail view" src="https://github.com/user-attachments/assets/def8d5a2-db37-44dd-a3b8-0fd519a81eca" />
